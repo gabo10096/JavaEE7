@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<product>
+    <product>
+        <name>Widget</name>
+        <price>25.0</price>
+        <description>el basico</description>
+    </product>
+    <product>
+        <name>Widget Pro</name>
+        <price>35.0</price>
+        <description>el basico perron</description>
+    </product>
+    <product>
+        <name>Widget Pro XL</name>
+        <price>45.0</price>
+        <description>el peroon</description>
+    </product>
+</product>

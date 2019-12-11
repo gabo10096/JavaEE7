@@ -1,0 +1,3 @@
+<Resource id="myDerbyDataSource" type="javax.qsl.DataSource">
+    jdbcUrl jdbc:derby:memory:derbyDB;create=true
+</Resource>
